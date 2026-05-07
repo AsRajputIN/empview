@@ -5,7 +5,7 @@ A modern, feature-rich employee management mobile application built with Flutter
 ## 📱 App Preview
 
 <div align="center">
-  <img src="screenshots/app_banner.png](https://github.com/user-attachments/assets/df7cfd3a-8fe4-40ec-963c-9c31b38721e9" alt="App Banner" width="800"/>
+  <img src="https://github.com/user-attachments/assets/df7cfd3a-8fe4-40ec-963c-9c31b38721e9" alt="App Banner" width="800"/>
   
   | Employee List | Add Employee | Employee Details |
   |--------------|--------------|------------------|
