@@ -1,3 +1,4 @@
+![Uploading simulator_screenshot_E904B28D-16C3-42E4-8554-D3BB33015E3D.png…]()
 # Employee Management App - Flutter Frontend
 
 A modern, feature-rich employee management mobile application built with Flutter. The app displays all employees and highlights those who have been with the organization for more than 5 years and are active.
@@ -9,7 +10,7 @@ A modern, feature-rich employee management mobile application built with Flutter
   
   | Employee List | Add Employee | Employee Details |
   |--------------|--------------|------------------|
-  | ![Employee List](https://github.com/user-attachments/assets/8f972b07-b6e4-459b-b179-1d1f56ccab8a) | ![Add Employee](screenshots/add_employee.png) | ![Employee Details](screenshots/employee_details.png) |
+  | ![Employee List](https://github.com/user-attachments/assets/8f972b07-b6e4-459b-b179-1d1f56ccab8a) | ![Add Employee]([screenshots/add_employee.png](https://github.com/user-attachments/assets/028d73ef-ee65-43d9-b6ab-d51e23eca5f0)) | ![Employee Details]((https://github.com/user-attachments/assets/83c38476-3d1d-41da-867b-d8a62a43b7e0)) |
 </div>
 
 
