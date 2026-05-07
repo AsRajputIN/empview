@@ -10,7 +10,7 @@ A modern, feature-rich employee management mobile application built with Flutter
   
   | Employee List | Add Employee | Employee Details |
   |--------------|--------------|------------------|
-  | ![Employee List](https://github.com/user-attachments/assets/8f972b07-b6e4-459b-b179-1d1f56ccab8a) | ![Add Employee]([screenshots/add_employee.png](https://github.com/user-attachments/assets/028d73ef-ee65-43d9-b6ab-d51e23eca5f0)) | ![Employee Details]((https://github.com/user-attachments/assets/83c38476-3d1d-41da-867b-d8a62a43b7e0)) |
+  | ![Employee List](https://github.com/user-attachments/assets/8f972b07-b6e4-459b-b179-1d1f56ccab8a) | ![Add Employee](https://github.com/user-attachments/assets/028d73ef-ee65-43d9-b6ab-d51e23eca5f0) | ![Employee Details](https://github.com/user-attachments/assets/83c38476-3d1d-41da-867b-d8a62a43b7e0) |
 </div>
 
 
